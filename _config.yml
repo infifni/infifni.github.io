@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We believe in open source and it's power to change the world of software development.
   In this site you will see the repositories we created and are available for public.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://infifni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  infifni
 
 # Build settings
